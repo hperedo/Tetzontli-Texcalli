@@ -63,12 +63,13 @@ Download
 
 # 📅 Hoja de ruta
 
-| Fase	| Duración	| Hito
-| Prototipo|	4 meses	| Construcción del horno piloto
-| Validación	| 3 meses	| Pruebas con bagazo de agave
-| Certificación| 	2 meses | 	EBC/IBI para biochar
-| Escalamiento	| 3 meses	| Optimización y réplica
-| Comercialización| 	6 meses | 	Primeros clientes
+| Fase	| Duración	| Hito |
+|------------|------------------|-----------------|
+| Prototipo|	4 meses	| Construcción del horno piloto|
+| Validación	| 3 meses	| Pruebas con bagazo de agave |
+| Certificación| 	2 meses | 	EBC/IBI para biochar |
+| Escalamiento	| 3 meses	| Optimización y réplica |
+| Comercialización| 	6 meses | 	Primeros clientes |
 
 # 📬 Contacto
 Dr.-Ing. Humberto Peredo Fuentes
