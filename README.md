@@ -33,72 +33,44 @@ El uso de **tezontle como aislante térmico** en el horno reduce costos de impor
 | **8** | Contacto y cierre – Datos de contacto, frase final |
 
 
-## 🛠️ Cómo compilar la presentación
-
-### Requisitos
-
-- Una distribución LaTeX (ej. **TeX Live**, **MiKTeX**)
-- Paquetes necesarios:
-  - `beamer`
-  - `tikz`
-  - `amsmath`, `amsfonts`, `amssymb`
-  - `booktabs`, `array`, `multicol`
-  - `hyperref`, `graphicx`
-
-### Compilación
-
-```bash
-pdflatex Deck_Horno_Tezontle_Reducido.tex
-Nota: Ejecuta el comando dos veces para generar el índice correctamente.
-
-Compilación en Overleaf
-Sube el archivo .tex a Overleaf
-
-Selecciona el compilador pdfLaTeX
-
-Haz clic en Recompilar
-
-📂 Estructura del repositorio
+# 📂 Estructura del repositorio
 text
 Copy
 Download
 .
-├── Deck_Horno_Tezontle_Reducido.tex   # Código fuente de la presentación
 ├── Deck_Horno_Tezontle_Reducido.pdf   # Presentación compilada
 ├── README.md                          # Este archivo
 └── assets/
     └── tec-logo.png                   # Logo del Tec (opcional, para portada)
-👨‍🔬 El equipo
+
+# 👨‍🔬 El equipo
 Nombre	Rol	Institución
 Dr.-Ing. Humberto Peredo Fuentes	Investigador Principal	ITESM Campus Querétaro
-Dra. Elena Ramírez Sánchez	Materiales Volcánicos	Instituto de Geología UNAM
 CIATEQ A.C.	Desarrollo de prototipos	Centro de Investigación
 CIDETEQ	Captura de CO₂	Centro de Investigación
 TEC Startup Lab	Mentoría y networking	Tecnológico de Monterrey
-🌱 Impacto esperado
+
+# 🌱 Impacto esperado
 18 ton CO₂e/año reducidas por horno
-
 3.4 ton CO₂/año capturadas directamente
-
 Biochar como sumidero de carbono por >100 años
-
 Prolongación de rellenos sanitarios en 10–15 años
-
 Empleos verdes: 3–5 operadores por horno
 
-Soberanía tecnológica: materiales 100% mexicanos
+# Soberanía tecnológica: materiales 100% mexicanos
 
-📅 Hoja de ruta
+# 📅 Hoja de ruta
 Fase	Duración	Hito
 Prototipo	4 meses	Construcción del horno piloto
 Validación	3 meses	Pruebas con bagazo de agave
 Certificación	2 meses	EBC/IBI para biochar
 Escalamiento	3 meses	Optimización y réplica
 Comercialización	6 meses	Primeros clientes
-📬 Contacto
+
+# 📬 Contacto
 Dr.-Ing. Humberto Peredo Fuentes
 
-✉️ hperedo@tec.mx
+✉️ humberto.peredo@tec.mx
 
 🔗 LinkedIn
 
@@ -106,7 +78,7 @@ Dr.-Ing. Humberto Peredo Fuentes
 
 🌐 Sitio web
 
-📄 Licencia
+# 📄 Licencia
 Este proyecto está bajo la licencia Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
 
 Puedes compartir y adaptar el material siempre que:
@@ -115,17 +87,14 @@ Des crédito al autor original
 
 No lo uses con fines comerciales
 
-🤝 Contribuciones
+# 🤝 Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar la presentación o proponer cambios, abre un Issue o envía un Pull Request.
 
-📚 Referencias
+# 📚 Referencias
 European Biochar Certificate (EBC)
-
 International Biochar Initiative (IBI)
-
 CONAHCYT – Fondo de startups
-
 Tecnológico de Monterrey – Startup Lab
 
-“Convertir un problema ambiental en una solución climática, energética y de identidad tecnológica nacional.”
+# “Convertir un problema ambiental en una solución climática, energética y de identidad tecnológica nacional.”
 
