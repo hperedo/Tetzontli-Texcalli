@@ -34,7 +34,7 @@ El uso de **tezontle como aislante térmico** en el horno reduce costos de impor
 
 
 # 📂 Estructura del repositorio
-text
+```text
 Copy
 Download
 .
@@ -42,6 +42,7 @@ Download
 ├── README.md                          # Este archivo
 └── assets/
     └── tec-logo.png                   # Logo del Tec (opcional, para portada)
+```
 
 # 👨‍🔬 El equipo
 
