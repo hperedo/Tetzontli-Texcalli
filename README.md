@@ -45,11 +45,12 @@ Download
 
 # 👨‍🔬 El equipo
 
-| Nombre | Rol  |Institución |
-| Dr.-Ing. Humberto Peredo Fuentes |	Investigador Principal	ITESM Campus Querétaro
-| CIATEQ A.C. |	Desarrollo de prototipos	| Centro de Investigación
-| CIDETEQ	| Captura de CO₂	| Centro de Investigación
-| TEC Startup Lab	| Mentoría y networking	| Tecnológico de Monterrey
+| Nombre                           | Rol                               | Institución             |
+|----------------------------------|-----------------------------------|-------------------------|
+| Dr.-Ing. Humberto Peredo Fuentes |	Investigador Principal         | ITESM Campus Querétaro  |
+| CIATEQ A.C.                      |	Desarrollo de prototipos       | Centro de Investigación |
+| CIDETEQ	                       | Captura de CO₂	                   | Centro de Investigación |
+| TEC Startup Lab	               | Mentoría y networkingInstitución  | Tecnológico de Monterrey|
 
 # 🌱 Impacto esperado
 - 18 ton CO₂e/año reducidas por horno
