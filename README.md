@@ -37,6 +37,7 @@ Puedes ver y descargar el video de presentación del proyecto **Horno de Tezontl
   <source src="https://raw.githubusercontent.com/hperedo/Tetzontli-Texcalli/main/Horno_de_Tezontle.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
+```
 
 ## 📊 Contenido de la presentación (8 diapositivas)
 
