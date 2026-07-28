@@ -18,6 +18,25 @@ El horno, una vez validado, podrá ser escalado para tratar residuos sólidos ur
 
 El uso de **tezontle como aislante térmico** en el horno reduce costos de importación de materiales refractarios, aporta identidad tecnológica nacional y permite la construcción de un prototipo de muy bajo costo para la valorización de residuos orgánicos.
 
+## 🎬 Video de presentación
+
+Puedes ver y descargar el video de presentación del proyecto **Horno de Tezontle** haciendo clic en el siguiente enlace:
+
+[![Ver video](https://img.shields.io/badge/📹-Ver_video-blue?style=for-the-badge&logo=youtube)](https://raw.githubusercontent.com/hperedo/Tetzontli-Texcalli/main/Horno_de_Tezontle.mp4)
+
+### 📥 Descargar video
+
+| Formato | Enlace | Tamaño |
+|---------|--------|--------|
+| **MP4 (HD)** | [📥 Descargar video](https://raw.githubusercontent.com/hperedo/Tetzontli-Texcalli/main/Horno_de_Tezontle.mp4) | ~18 MB |
+
+### 🎞️ Vista previa
+
+```html
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/hperedo/Tetzontli-Texcalli/main/Horno_de_Tezontle.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
 
 ## 📊 Contenido de la presentación (8 diapositivas)
 
